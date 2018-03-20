@@ -1,0 +1,23 @@
+body {
+    background-image: url(1.png);
+    -o-object-fit: fill;
+    object-fit: fill;
+}
+* {
+	text-align: center;
+}
+
+button {
+	margin: 25px 0 ;
+    padding: 15px;
+    border-radius: 15px;
+    }
+button:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}
+
+span {
+    font-weight: 300;
+    color: green;
+}
